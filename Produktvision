@@ -1,1 +1,7 @@
-Vi vill skapa en PowerShell-baserad Grön IT-lösning som hjälper administratörer att identifiera inaktiva datorer i nätverket och schemalägga avstängning för att minska onödig energiförbrukning.
+## Produktvision
+
+Vår produkt är en Grön IT-lösning för Windows-domänmiljöer som hjälper organisationer att minska onödig energiförbrukning från klientdatorer. Lösningen använder Group Policy för att centralt distribuera ett PowerShell-script till utvalda datorer i nätverket.
+
+Scriptet körs lokalt på klienterna och kan användas för att kontrollera om en dator är inaktiv, logga körningen och därefter försätta datorn i viloläge enligt organisationens energipolicy. På så sätt kan IT-administratörer automatisera energibesparande åtgärder utan att manuellt behöva hantera varje enskild dator.
+
+Målet är att skapa en enkel, skalbar och administrerbar lösning som kombinerar Grön IT, automatisering och central styrning i en Windows Server-miljö.
