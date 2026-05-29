@@ -77,7 +77,7 @@ cd Uppgift1-Den-Grona-IT-policyn
 
 ## 📁 Projektstruktur
 
-```
+
 gron-it-policy/
 │
 ├── README.md               ← Du läser den just nu
