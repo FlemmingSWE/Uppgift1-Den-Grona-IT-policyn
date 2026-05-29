@@ -1,7 +1,14 @@
-## Produktvision
+## 🌱 Produktvision
 
-Vår produkt är en Grön IT-lösning för Windows-domänmiljöer som hjälper organisationer att minska onödig energiförbrukning från klientdatorer. Lösningen använder Group Policy för att centralt distribuera ett PowerShell-script till utvalda datorer i nätverket.
+Detta projekt är en **Grön IT-lösning för Windows-domänmiljöer**.  
+Syftet är att minska onödig energiförbrukning genom att automatisera hanteringen av klientdatorer som står på utan att användas.
 
-Scriptet körs lokalt på klienterna och kan användas för att kontrollera om en dator är inaktiv, logga körningen och därefter försätta datorn i viloläge enligt organisationens energipolicy. På så sätt kan IT-administratörer automatisera energibesparande åtgärder utan att manuellt behöva hantera varje enskild dator.
+Lösningen använder **Group Policy** för att centralt distribuera ett **PowerShell-script** till utvalda datorer i nätverket. Scriptet körs lokalt på klienterna och kan:
 
-Målet är att skapa en enkel, skalbar och administrerbar lösning som kombinerar Grön IT, automatisering och central styrning i en Windows Server-miljö.
+- kontrollera om datorn är inaktiv
+- logga när scriptet har körts
+- försätta datorn i viloläge enligt organisationens energipolicy
+
+På så sätt kan IT-administratörer hantera energibesparande åtgärder centralt, utan att behöva konfigurera varje dator manuellt.
+
+> Målet är att skapa en enkel, skalbar och administrerbar lösning som kombinerar **Grön IT**, **automatisering** och **central styrning** i en Windows Server-miljö.
