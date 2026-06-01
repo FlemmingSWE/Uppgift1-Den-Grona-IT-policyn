@@ -135,17 +135,17 @@ Vi kör **1-dags-sprintar** med följande dagliga struktur:
 
 ### Sprint 0 – Fredag
 **Sprint Review:** *Vad levererade vi idag?*
-> ...
+> Vi gjorde produktvision och diskuterade övergripande kring hur vi skulle börja måndagen, vi skapade en gemensam textfil där vi brainstormade ideer och tankar.
 
 **Sprint Retrospektiv:** *Vad fungerade bra? Vad förbättrar vi?*
-> ...
+> Var lite klurigt att komma in i tankesättet kring User stories och det var svårt att förstå hur vi skulle prioritera då vi inte har någon erfarenhet av att skriva kod tillsammans med andra.
 
 ### Sprint 1 – Måndag
 **Sprint Review:** *Vad levererade vi idag?*
-> ...
+> Vi levererade färdiga script som är redo att test mergas på tisdag.
 
 **Sprint Retrospektiv:** *Vad fungerade bra? Vad förbättrar vi?*
-> ...
+> Vi fördelade arbetet och kom igång med att göra det vi skulle, vi blev klara med scripten som skulle skrivas men vi kanske kan bli bättre på att synka under tidens gång.
 
 ### Sprint 2 – Tisdag
 **Sprint Review:** *Vad levererade vi idag?*
