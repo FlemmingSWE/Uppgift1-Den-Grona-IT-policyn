@@ -133,10 +133,10 @@ Vi kör **1-dags-sprintar** med följande dagliga struktur:
 
 ### Sprint 2 – Tisdag
 **Sprint Review:** *Vad levererade vi idag?*
-> ...
+> Idag testade vi att merga våra script och göra ett test i en labbmiljö, detta fungerade med lyckat resultat, vi skruvade också lite på shutdown scriptet för att mitigera risken för dataförlust.
 
 **Sprint Retrospektiv:** *Vad fungerade bra? Vad förbättrar vi?*
-> ...
+> Bättre möte idag, teamet kändes mer synkade och vi hade en gemensam bild kring vad som skulle göras för dagen.
 
 ### Sprint 3 – Onsdag:
 **Sprint Review:** *Vad levererade vi idag?*
