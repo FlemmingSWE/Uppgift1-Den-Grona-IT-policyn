@@ -16,7 +16,7 @@ Lösningen använder **Group Policy** för att centralt distribuera ett **PowerS
 
 - kontrollera om datorn är inaktiv
 - logga när scriptet har körts
-- försätta datorn i viloläge enligt organisationens energipolicy
+- Stänga av datorn enligt organisationens energipolicy
 
 På så sätt kan IT-administratörer hantera energibesparande åtgärder centralt, utan att behöva konfigurera varje dator manuellt.
 
@@ -32,7 +32,7 @@ Vårt PowerShell-script:
 
 1. **Inventerar nätverket** – Skannar det lokala nätverket med WMI/CIM och listar anslutna maskiner
 2. **Identifierar inaktiva maskiner** – Kontrollerar senaste aktivitet och pingar maskiner för att avgöra om de används
-3. **Schemalägger avstängning** – Skickar ett kontrollerat avstängnings- eller vilolägeskommando till inaktiva maskiner
+3. **Schemalägger avstängning** – Skickar ett kontrollerat avstängningskommando till inaktiva maskiner
 4. **Loggar allt** – Varje händelse skrivs till en loggfil med tidsstämpel så att åtgärder kan spåras i efterhand
 
 ---
@@ -42,7 +42,7 @@ Vårt PowerShell-script:
 | Teknik | Användning |
 |--------|------------|
 | PowerShell | Huvudspråk för all scripting |
-| WMI / CIM | Hämta systeminformation från lokala och fjärranslutna maskiner |
+| WMI / CIM | Hämta systeminformation från AD anslutna maskiner
 | GitHub Projects | Scrum-tavla och uppgiftsspårning |
 | Git / GitHub | Versionshantering och kodlagring |
 
@@ -55,22 +55,6 @@ Vårt PowerShell-script:
 - Åtkomst till ett lokalt nätverk (hemnätverk fungerar utmärkt för demo)
 
 ---
-
-## 🚀 Kom igång
-
-Viktigt att köra Powershell som "administratör"!
-
-powershell
-# 1. Klona repot
-git clone https://github.com/FlemmingSWE/Uppgift1-Den-Grona-IT-policyn.git
-
-# 2. Navigera till mappen som skapats.
-cd Uppgift1-Den-Grona-IT-policyn
-
-# 3. Kör basscriptet (Sprint 0)
-.\basescript.ps1
-```
-
 
 
 ---
