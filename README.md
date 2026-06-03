@@ -108,7 +108,6 @@ Vi kör **1-dags-sprintar** med följande dagliga struktur:
 | [William Minnert] | Scrum Master |
 | [Flamur Mehmeti] | Product owner |
 | [Oskar Wågman] | Utvecklare |
-| [Anna Ljungkvist] | Utvecklare?? |
 | [Mohamad Sallat] | Utvecklare |
 
 ---
