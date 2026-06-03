@@ -3,7 +3,7 @@
 # Det varnar användaren, skriver logg och stänger sedan av datorn.
 
 # Här sparas loggfilen på klienten
-$logPath = "C:\Logs\shutdown_log.txt"
+$logPath = "\ad01\ITSEC2026\log\Shutdown_log.txt"
 
 # Hämtar mappen från loggsökvägen
 $logFolder = Split-Path $logPath
