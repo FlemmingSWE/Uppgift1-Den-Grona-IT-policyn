@@ -139,10 +139,10 @@ Vi kör **1-dags-sprintar** med följande dagliga struktur:
 
 ### Sprint 3 – Onsdag:
 **Sprint Review:** *Vad levererade vi idag?*
-> ...
+> Vi levererade ett fullt fungerande merchat script som blev DoD.
 
 **Sprint Retrospektiv** *Vad fungerade bra? Vad förbättrar vi?*
-> ...
+> Vi hade bra koll på vad vi skulle göra och saker gick effektivt. Vi kom in på ytterligare tankar för att förfina scriptet ytterligare men insåg att det var för kort inpå för att starta igång något mer.
 
 ### Sprint 4 - Torsdag:
 **Sprint Review:** *Vad levererade vi idag?*
